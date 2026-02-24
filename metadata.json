@@ -1,0 +1,5 @@
+{
+  "name": "Lumina OCR",
+  "description": "Professional-grade OCR utility for instant text extraction from images and multi-page PDFs using Gemini AI.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
